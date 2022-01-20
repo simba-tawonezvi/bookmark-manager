@@ -6,6 +6,7 @@ class Bookmark
     result = conn.exec( "SELECT * FROM bookmarks;" )
     result.map do |row|
       row['url']
+      p row
     end
   end
 end
