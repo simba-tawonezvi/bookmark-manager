@@ -1,5 +1,5 @@
 ## Diagram
-<img src="(https://user-images.githubusercontent.com/24737738/149948829-7e3e4ea8-ce1c-4a9e-b1f5-9deced96319f.JPG)" width="50%">
+<img src="https://user-images.githubusercontent.com/24737738/149948829-7e3e4ea8-ce1c-4a9e-b1f5-9deced96319f.JPG" alt="diagram for get request" width="50%">
 
 ## User story one
 ```
